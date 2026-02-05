@@ -65,7 +65,7 @@ pfzy==0.3.4
 pillow==11.3.0
 prompt_toolkit==3.0.52
 propcache==0.3.2
-protobuf==4.25.8
+protobuf==5.29.6
 psutil==5.9.4
 pyarrow==21.0.0
 pycurl==7.45.6
