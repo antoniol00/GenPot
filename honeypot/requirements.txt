@@ -78,7 +78,7 @@ PySimpleSOAP==1.16.2
 python-dateutil==2.9.0.post0
 python-debian==0.1.49
 python-debianbts==4.0.1
-python-dotenv==0.21.0
+python-dotenv==1.2.2
 python-Levenshtein==0.27.1
 pytz==2025.2
 PyYAML==6.0.2
